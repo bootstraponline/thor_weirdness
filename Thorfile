@@ -1,5 +1,5 @@
 # Thorfile
-class Default < Thor
+class ::Default < Thor
 
   desc 'echo1', '111'
   def echo1
